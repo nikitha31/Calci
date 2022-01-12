@@ -49,6 +49,7 @@
 		1F245F2D278F1D2200A5A6A4 /* CalciUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalciUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F245F31278F1D2200A5A6A4 /* CalciUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalciUITests.swift; sourceTree = "<group>"; };
 		1F245F33278F1D2200A5A6A4 /* CalciUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalciUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1F245F40278F43FD00A5A6A4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		1F245F04278F1D1F00A5A6A4 = {
 			isa = PBXGroup;
 			children = (
+				1F245F40278F43FD00A5A6A4 /* README.md */,
 				1F245F0F278F1D1F00A5A6A4 /* Calci */,
 				1F245F26278F1D2200A5A6A4 /* CalciTests */,
 				1F245F30278F1D2200A5A6A4 /* CalciUITests */,
